@@ -1,4 +1,4 @@
-# To-Do List
+# Flutter-Educational-project (To-Do List)
 
 A To-Do Flutter application to manage your TaskList.
 
